@@ -1,0 +1,15 @@
+.box {
+    width: 20%;
+    height: 400px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+
+.prod-img {
+    width: 70%;
+}
+
+.prod-img:hover{
+    width: 90%;
+}
+
